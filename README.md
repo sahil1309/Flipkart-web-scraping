@@ -11,7 +11,9 @@ This script allows you to scrape reviews for the top 5 most expensive mobile pho
 ## Usage
 Install the required packages by running the following command in your terminal/command prompt:
 Copy code
-* pip install beautifulsoup4 tqdm requests
+```bash
+pip install beautifulsoup4 tqdm requests
+```
 
 Clone this repository or download the Jupyter Notebook Flipkart_Reviews.ipynb
 
